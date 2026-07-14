@@ -1,6 +1,6 @@
 # ==========================================================
 # House Price Prediction using Machine Learning
-# Author : Laiba Wajid
+# Author : Nouman Majeed
 # Internship Task 6
 # ==========================================================
 
